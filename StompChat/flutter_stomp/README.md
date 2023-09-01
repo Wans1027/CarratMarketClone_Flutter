@@ -1,8 +1,8 @@
-# flutter_stomp
+# 당근마켓클론 프로젝트
 
 A new Flutter project.
 
-## Getting Started
+Spring MSA에 사용될 프론트엔드 앱 
 
 This project is a starting point for a Flutter application.
 
