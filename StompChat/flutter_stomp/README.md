@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-Spring MSA에 사용될 프론트엔드 앱 
+Spring MSA 프로젝트와 REST API 연동 프론트엔드 모바일 앱 
 
 This project is a starting point for a Flutter application.
 
